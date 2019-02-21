@@ -1,1 +1,1 @@
-something in file B
+something more meaningful
